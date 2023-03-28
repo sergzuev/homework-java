@@ -1,3 +1,4 @@
+package homework2;
 
 import java.io.BufferedOutputStream;
 import java.io.FileNotFoundException;
